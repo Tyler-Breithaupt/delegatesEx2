@@ -1,0 +1,15 @@
+/Users/tylerbreithaupt/Desktop/CIT195/delegatesEx2/obj/Debug/net7.0/delegatesEx2.csproj.AssemblyReference.cache
+/Users/tylerbreithaupt/Desktop/CIT195/delegatesEx2/obj/Debug/net7.0/delegatesEx2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tylerbreithaupt/Desktop/CIT195/delegatesEx2/obj/Debug/net7.0/delegatesEx2.AssemblyInfoInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/delegatesEx2/obj/Debug/net7.0/delegatesEx2.AssemblyInfo.cs
+/Users/tylerbreithaupt/Desktop/CIT195/delegatesEx2/obj/Debug/net7.0/delegatesEx2.csproj.CoreCompileInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/delegatesEx2/bin/Debug/net7.0/delegatesEx2
+/Users/tylerbreithaupt/Desktop/CIT195/delegatesEx2/bin/Debug/net7.0/delegatesEx2.deps.json
+/Users/tylerbreithaupt/Desktop/CIT195/delegatesEx2/bin/Debug/net7.0/delegatesEx2.runtimeconfig.json
+/Users/tylerbreithaupt/Desktop/CIT195/delegatesEx2/bin/Debug/net7.0/delegatesEx2.dll
+/Users/tylerbreithaupt/Desktop/CIT195/delegatesEx2/bin/Debug/net7.0/delegatesEx2.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/delegatesEx2/obj/Debug/net7.0/delegatesEx2.dll
+/Users/tylerbreithaupt/Desktop/CIT195/delegatesEx2/obj/Debug/net7.0/refint/delegatesEx2.dll
+/Users/tylerbreithaupt/Desktop/CIT195/delegatesEx2/obj/Debug/net7.0/delegatesEx2.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/delegatesEx2/obj/Debug/net7.0/delegatesEx2.genruntimeconfig.cache
+/Users/tylerbreithaupt/Desktop/CIT195/delegatesEx2/obj/Debug/net7.0/ref/delegatesEx2.dll

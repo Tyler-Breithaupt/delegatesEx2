@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "delegatesEx2/1.0.0": {
+        "runtime": {
+          "delegatesEx2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "delegatesEx2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
